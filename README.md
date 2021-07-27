@@ -4,12 +4,11 @@ Data and code for a project testing the effects of simulated grazing disturbance
 Metadata for project: Distrubance reduces recuritment
 Authors: Kollars and Stachowicz 
 
-File: "Kollars_feedback_usats.csv" 
-**********************************
+# File: "Kollars_feedback_usats.csv" 
+--------------------------------------
 This file has the raw microsat genotypes for each sample 
 
 Variables included in the dataset:
---------------------------------------
 
 population: designation for each plot at each specific time point   
 
@@ -42,16 +41,16 @@ Zm09 - ZosmarCT-12
 Zm10 - ZosmarCT-19
 Zm11 - ZosmarGA-3
 
-File: "Kollars_feedback_mlgs"  
-********************************
+#File: "Kollars_feedback_mlgs"  
+--------------------------------
 This file contains all the same information as "Kollars_feedback_usats" but with an additional column, "mlg" that has the assigned clonal id for each sample. 
 
-File: "Kollars_feedback_clones"
-*********************************
+#File: "Kollars_feedback_clones"
+---------------------------------
 This file is a modified output file of running "Kollars_feedback_usats" through the R package "Rclone" and generating clonal summary stats. The modifications included adding plot identifying information. 
 
 Variables included in the dataset: 
---------------------------------------
+
 pop: designation for each plot at each specific time point   
 
 time: T1 = initial sampling, T5 = final sampling 
@@ -78,12 +77,11 @@ V:Simpson's unbiased V
 
 H:Reciprocal of Simpson's index	
 
-File: "Kollars_feedback_shoots"
-*********************************
+#File: "Kollars_feedback_shoots"
+--------------------------------
 data for vegetative and flowering shoot counts throughout the course of the experiment
 
 Variables included in the dataset: 
---------------------------------------
 
 block: experimental block designation. Note that in the MS, we report nine blocks but block numbering in the dataset starts at "2". We originally had 10 blocks and removed the first block from the study due to human sampling error. 
 
