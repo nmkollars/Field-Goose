@@ -41,11 +41,11 @@ Zm09 - ZosmarCT-12
 Zm10 - ZosmarCT-19
 Zm11 - ZosmarGA-3
 
-#File: "Kollars_feedback_mlgs"  
+# File: "Kollars_feedback_mlgs"  
 --------------------------------
 This file contains all the same information as "Kollars_feedback_usats" but with an additional column, "mlg" that has the assigned clonal id for each sample. 
 
-#File: "Kollars_feedback_clones"
+# File: "Kollars_feedback_clones"
 ---------------------------------
 This file is a modified output file of running "Kollars_feedback_usats" through the R package "Rclone" and generating clonal summary stats. The modifications included adding plot identifying information. 
 
@@ -77,7 +77,7 @@ V:Simpson's unbiased V
 
 H:Reciprocal of Simpson's index	
 
-#File: "Kollars_feedback_shoots"
+# File: "Kollars_feedback_shoots"
 --------------------------------
 data for vegetative and flowering shoot counts throughout the course of the experiment
 
