@@ -93,3 +93,10 @@ columns listed as dates: inidivudal sampling dates for vegetative shoot counts
 
 "no.flowers.###" where ### = "march2018, april2018, may2018, or june2018": data for number of flowering shoots in each plot. Note that data from march2018 was not included in the analysis. 
 
+# File: "Kollars_feedback_genet_assignment.code"
+--------------------------------
+R code used to work with the microsatellite data and assign genets
+
+# File: "Kollars_feedback_stats_figure.code"
+--------------------------------
+R code used to conduct statistical analysis and generate figures 
