@@ -1,7 +1,7 @@
 # Field-goose
 Data and code for a project testing the effects of simulated grazing disturbance on eelgrass genotypic diversity
 
-Metadata for project: Distrubance reduces recuritment
+Metadata for project: Distrubance reduces colonization
 Authors: Kollars and Stachowicz 
 
 # File: "Kollars_feedback_usats.csv" 
